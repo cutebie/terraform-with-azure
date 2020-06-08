@@ -9,6 +9,7 @@
 
 ## Usage 
 Run following commands in order
+
 ``az login``
 
 ``terraform init``
