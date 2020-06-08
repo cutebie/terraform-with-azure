@@ -8,7 +8,7 @@
 5. Assuming that the Spark jar file that you did in the exercise 1 is uploaded to dbfs manually, create a pipeline to use that jar for transformation. 
 
 ## Usage 
-1. Update the name of Azure resources in terraform.tfvars OR keep as-is 
+1. Update the name of Azure resources and authentication information (e.g. Tenant ID, Subscription ID, ...) in terraform.tfvars
 2. Then run following commands in order
 
 ``az login``
